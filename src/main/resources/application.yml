@@ -1,7 +1,2 @@
 server:
   port: 8084
-spring:
-  security:
-    user:
-      name: rams
-      password: rams123
